@@ -125,7 +125,7 @@ public class MainScreen extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-        Toast.makeText(this,"Bye Bye", LENGTH_SHORT).show();
+        Toast.makeText(this,"Bye-Bye", LENGTH_SHORT).show();
     }
 
     @Override
