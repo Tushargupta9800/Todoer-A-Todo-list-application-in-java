@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoer</string>
+    <string name="AppName">ToDoer</string>
+    <string name="Tagline">What to do next??</string>
+    <string name="AddNew">Add</string>
+    <string name="Todo_Headline">Enter ToDoer</string>
+    <string name="Description">Description</string>
+    <string name="done">Done</string>
+    <string name="DoneEdit">Done Edit</string>
+</resources>
